@@ -2,9 +2,9 @@ public class Main {
     public static void main(String[] args) {
 
         int amount = 3500;
-        int bonusmiles = amount / 20;
+        int bonusMiles = amount / 20;
 
-        System.out.println("Бонусные мили: " + bonusmiles);
+        System.out.println("Бонусные мили: " + bonusMiles);
 
         //int miles = amount/bonus
         // Объявляете переменные для входных данных и
